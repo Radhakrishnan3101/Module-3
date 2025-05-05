@@ -1,30 +1,29 @@
 # Exp.No:3e
-## SEB - STRING SLICING
+## SEB - string partition
 
 ---
 
 ### AIM  
-To write a Python function that accepts a string and forms a new string by reversing the characters from the **4th position to the 10th position** with **alternate characters**, and then prints the new string.
+To Write a python function that accepts a string and partition the string at the occurrence of the  word "work".
 
 ---
 
 ### ALGORITHM
 
-1. Begin the program.  
-2. Accept a string as input.  
-3. Take a slice of the input string from index **2** to **10** (Python uses 0-based indexing, so index 2 refers to the 3rd character, i.e., the 4th character in natural terms).  
-4. Reverse the sliced substring.  
-5. Extract every second character from the reversed substring using slicing (`[::2]`).  
-6. Print the final processed string.  
-7. Terminate the program.
+1. Begin the program.
+2. use the built in function
+3. partition()
+4. end
 
 ---
 
 ### PROGRAM
 
-```
-```
+def part(a):
+    print(a.partition("work"))
 
 ### OUTPUT
+![image](https://github.com/user-attachments/assets/85734192-a65d-4619-942a-eb9408fbe56e)
 
 ### RESULT
+Thus the output was verified 
