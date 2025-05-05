@@ -1,29 +1,32 @@
 # Exp.No:3d  
-## TUPLES - A TUPLE WITH MULTIPLES OF 5
+## TUPLES - Searching the elements in a tuple
 
 ---
 
 ### AIM  
-To write a Python program to create a tuple containing all multiples of 5 up to a given number **N**.
+To Write a Python program to check whether an element 'r'  ,'5'exists within a tuple.
 
 ---
 
 ### ALGORITHM
 
-1. Begin the program.  
-2. Accept an integer `N` from the user.  
-3. Use a generator expression inside the `tuple()` function to create a tuple `multiples_of_5` with values starting from `5` up to `N - 1`, stepping by `5`.  
-4. Return the tuple `multiples_of_5`.  
-5. Print the resulting tuple.  
-6. Terminate the program.
+1. Begin the program.
+2. search for 5 and r in tuple
+3. end
 
 ---
 
 ### PROGRAM
 
-```
-```
+tuple = ("S", 89, "R", "e", "s", "o", "u", "r", "c", "e","D")
+b= "5" in tuple
+c= "r" in tuple
+print(c)
+print(b)
+
 
 ### OUTPUT
+![image](https://github.com/user-attachments/assets/ba49adce-9a09-4690-b36f-f2352ddfffc2)
 
 ### RESULT
+Thus the program for finding 5 and r in tuple is executed
