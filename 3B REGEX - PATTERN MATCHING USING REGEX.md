@@ -22,8 +22,16 @@ To write a Python program that matches a string containing an `'a'` followed by 
 
 ### PROGRAM
 
-```
-```
+import re
+s=input()
+p=re.compile(r'^a*b*$')
+if p.match(s):
+    print("Found a match!")
+else:
+    print("Not matched!")
+
 ### OUTPUT
+![image](https://github.com/user-attachments/assets/10ee7117-0a7c-4253-a928-38feca96f280)
 
 ### RESULT
+Thus the output was verified
