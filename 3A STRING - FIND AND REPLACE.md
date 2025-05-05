@@ -29,7 +29,8 @@ def replacestr(a,b):
 ```
 
 ### OUTPUT
-![image](https://github.com/user-attachments/assets/ff65214c-3f3e-4414-8183-ca717cf45d48)
+![image](https://github.com/user-attachments/assets/941b4ac1-3406-4bf8-b00a-8b0456ac0a96)
+
 
 ### RESULT
 Thus the string is replaced by the new word provided by the user
