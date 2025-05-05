@@ -22,9 +22,14 @@ To write a Python function to accept a string, identify a word to be replaced, a
 
 ### PROGRAM
 
-```
+def replacestr(a,b):
+    print(f"The old string is {a}")
+    c=input()
+    print("the new string is",a.replace(b,c))```
 ```
 
 ### OUTPUT
+![image](https://github.com/user-attachments/assets/ff65214c-3f3e-4414-8183-ca717cf45d48)
 
 ### RESULT
+Thus the string is replaced by the new word provided by the user
