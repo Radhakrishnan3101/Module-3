@@ -1,5 +1,5 @@
 # Exp.No:3e
-## SEB - string partition
+## SEB - String partition
 
 ---
 
