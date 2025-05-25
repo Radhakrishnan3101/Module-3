@@ -40,4 +40,4 @@ print("Not matched!")
 ![image](https://github.com/user-attachments/assets/10ee7117-0a7c-4253-a928-38feca96f280)
 
 ### RESULT
-Thus the output was verified
+Thus the code for matching a string is executed successfully
