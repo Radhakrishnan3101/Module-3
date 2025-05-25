@@ -20,7 +20,7 @@ To Write a python function that accepts a string and partition the string at the
 ### PROGRAM
 
 def part(a):
-    print(a.partition("work"))
+print(a.partition("work"))
 
 ### OUTPUT
 ![image](https://github.com/user-attachments/assets/85734192-a65d-4619-942a-eb9408fbe56e)
