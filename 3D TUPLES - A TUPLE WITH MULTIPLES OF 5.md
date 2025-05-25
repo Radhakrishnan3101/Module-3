@@ -19,9 +19,13 @@ To Write a Python program to check whether an element 'r'  ,'5'exists within a t
 ### PROGRAM
 
 tuple = ("S", 89, "R", "e", "s", "o", "u", "r", "c", "e","D")
+
 b= "5" in tuple
+
 c= "r" in tuple
+
 print(c)
+
 print(b)
 
 
