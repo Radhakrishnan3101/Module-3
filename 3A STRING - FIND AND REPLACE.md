@@ -23,9 +23,12 @@ To write a Python function to accept a string, identify a word to be replaced, a
 ### PROGRAM
 
 def replacestr(a,b):
-    print(f"The old string is {a}")
-    c=input()
-    print("the new string is",a.replace(b,c))
+
+ print(f"The old string is {a}")
+ 
+ c=input()
+ 
+ print("the new string is",a.replace(b,c))
 
 
 ### OUTPUT
