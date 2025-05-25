@@ -28,15 +28,19 @@ def createlist(n):
    l=[]
    
    for i in range(12,n):
-      if i%2==0:
-      
+   
+   if i%2==0:
+   
  l.append(i)
-    print("List =",l)
-    c=sum(l)
-    print("Sum of the list",c)
+ 
+   print("List =",l)
+   
+ c=sum(l)
+ 
+ print("Sum of the list",c)
 
 ### OUTPUT
 ![image](https://github.com/user-attachments/assets/91284079-749c-437b-babe-3bbde5cb9d63)
 
 ### RESULT
-Thus the output was verified
+Thus the even no list is created and output verified successfully.
