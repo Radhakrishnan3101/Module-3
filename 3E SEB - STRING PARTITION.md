@@ -27,4 +27,4 @@ print(a.partition("work"))
 ![image](https://github.com/user-attachments/assets/85734192-a65d-4619-942a-eb9408fbe56e)
 
 ### RESULT
-Thus the output was verified 
+Thus the code for partition a string is executed successfully.
